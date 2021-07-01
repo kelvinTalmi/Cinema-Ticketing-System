@@ -1,0 +1,36 @@
+[24-Aug-2020 17:53:27 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'talmiboo_quizk'@'localhost' to database 'talmiboo_quiz' in /home/tmm6ul1ql8ml/public_html/forgot password/database.php on line 6
+[24-Aug-2020 17:53:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/tmm6ul1ql8ml/public_html/forgot password/database.php:8
+Stack trace:
+#0 /home/tmm6ul1ql8ml/public_html/forgot password/index.php(3): include_once()
+#1 {main}
+  thrown in /home/tmm6ul1ql8ml/public_html/forgot password/database.php on line 8
+[24-Aug-2020 17:53:41 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'talmiboo_quizk'@'localhost' to database 'talmiboo_quiz' in /home/tmm6ul1ql8ml/public_html/forgot password/database.php on line 6
+[24-Aug-2020 17:53:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/tmm6ul1ql8ml/public_html/forgot password/database.php:8
+Stack trace:
+#0 /home/tmm6ul1ql8ml/public_html/forgot password/index.php(3): include_once()
+#1 {main}
+  thrown in /home/tmm6ul1ql8ml/public_html/forgot password/database.php on line 8
+[24-Aug-2020 17:54:37 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'talmiboo_quizk'@'localhost' to database 'talmiboo_quiz' in /home/tmm6ul1ql8ml/public_html/forgot password/database.php on line 6
+[24-Aug-2020 17:54:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/tmm6ul1ql8ml/public_html/forgot password/database.php:8
+Stack trace:
+#0 /home/tmm6ul1ql8ml/public_html/forgot password/index.php(3): include_once()
+#1 {main}
+  thrown in /home/tmm6ul1ql8ml/public_html/forgot password/database.php on line 8
+[24-Aug-2020 17:57:47 UTC] PHP Notice:  Undefined variable: headers in /home/tmm6ul1ql8ml/public_html/forgot password/index.php on line 18
+[24-Aug-2020 17:57:47 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/tmm6ul1ql8ml/public_html/forgot password/index.php on line 18
+[24-Aug-2020 18:03:32 UTC] PHP Notice:  Undefined variable: headers in /home/tmm6ul1ql8ml/public_html/forgot password/index.php on line 18
+[24-Aug-2020 18:03:32 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/tmm6ul1ql8ml/public_html/forgot password/index.php on line 18
+[24-Aug-2020 18:06:50 UTC] PHP Notice:  Undefined variable: headers in /home/tmm6ul1ql8ml/public_html/forgot password/index.php on line 18
+[24-Aug-2020 18:06:50 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/tmm6ul1ql8ml/public_html/forgot password/index.php on line 18
+[24-Aug-2020 18:11:29 UTC] PHP Notice:  Undefined variable: headers in /home/tmm6ul1ql8ml/public_html/forgot password/index.php on line 18
+[24-Aug-2020 18:11:29 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/tmm6ul1ql8ml/public_html/forgot password/index.php on line 18
+[24-Aug-2020 18:11:33 UTC] PHP Notice:  Undefined variable: headers in /home/tmm6ul1ql8ml/public_html/forgot password/index.php on line 18
+[24-Aug-2020 18:11:33 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/tmm6ul1ql8ml/public_html/forgot password/index.php on line 18
+[24-Aug-2020 18:18:27 UTC] PHP Notice:  Undefined variable: headers in /home/tmm6ul1ql8ml/public_html/forgot password/index.php on line 18
+[24-Aug-2020 18:18:27 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/tmm6ul1ql8ml/public_html/forgot password/index.php on line 18
+[24-Aug-2020 18:22:03 UTC] PHP Notice:  Undefined variable: headers in /home/tmm6ul1ql8ml/public_html/forgot password/index.php on line 18
+[24-Aug-2020 18:22:03 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/tmm6ul1ql8ml/public_html/forgot password/index.php on line 18
+[12-Jan-2021 09:23:18 UTC] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/talmiboo/shopwithtalmi.talmibooks.co.ke/forgot password/index.php on line 3
+[12-Jan-2021 09:23:18 UTC] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/talmiboo/shopwithtalmi.talmibooks.co.ke/forgot password/index.php on line 3
+[12-Jan-2021 09:23:32 UTC] PHP Warning:  include_once(connection.php): failed to open stream: No such file or directory in /home/talmiboo/shopwithtalmi.talmibooks.co.ke/forgot password/index.php on line 3
+[12-Jan-2021 09:23:32 UTC] PHP Warning:  include_once(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/talmiboo/shopwithtalmi.talmibooks.co.ke/forgot password/index.php on line 3
